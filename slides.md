@@ -9,17 +9,22 @@ date: March 13, 2020
 - Alamo Drafthouse South Lamar, Austin, TX
 
 ##  
+![](images/theater.jpg)
+
+##  
 ![](images/traffic.png)
 
-## What is [Elixir](https://elixir-lang.org/)?
+## What is Elixir?
 > a dynamic, functional language designed for
 > building scalable and maintainable applications
 
+<div style="text-align:right">-<a href="https://elixir-lang.org/">elixir-lang.org</a></div>
+
 ## Terms
-- **Elixir**: functional language with Ruby-ish syntax
+- **Elixir**: functional language based on Erlang with Ruby-ish syntax
 - **Erlang**: functional language invented in the 80s at Ericsson
-- **BEAM**: The VM Erlang and Elixir run on
-- **OTP**: The runtime that includes the BEAM and associated applications and tools
+- **BEAM**: The VM that Erlang and Elixir run on
+- **OTP**: The distribution that includes the BEAM runtime and associated applications and tools
 
 ## Unique Elixir/OTP Features
 - lightweight processes
@@ -49,3 +54,9 @@ date: March 13, 2020
 - Nobody:  
   Literally No One:  
   Me: Let's Write CSS in Elixir!
+
+## Takeaways
+- Real time is now
+- Learn something new
+- Do something new with something old
+- Have fun!
