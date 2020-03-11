@@ -16,3 +16,5 @@ Make sure that your working directory is setup to use the LTS version of node be
 $ nvm install --lts
 $ make index.html
 ```
+
+> Generated using [cookiecutter-revealjs](https://github.com/calvinhp/cookiecutter-revealjs).
