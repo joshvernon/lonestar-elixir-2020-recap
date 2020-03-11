@@ -8,10 +8,10 @@ date: March 13, 2020
 - February 27-28, 2020
 - Alamo Drafthouse South Lamar, Austin, TX
 
-##  
+##
 ![](images/theater.jpg)
 
-##  
+##
 ![](images/traffic.png)
 
 ## What is Elixir?
@@ -21,10 +21,10 @@ date: March 13, 2020
 <div style="text-align:right">-<a href="https://elixir-lang.org/">elixir-lang.org</a></div>
 
 ## Terms
-- **Elixir**: functional language based on Erlang with Ruby-ish syntax
-- **Erlang**: functional language invented in the 80s at Ericsson
-- **BEAM**: The VM that Erlang and Elixir run on
-- **OTP**: The distribution that includes the BEAM runtime and associated applications and tools
+- Elixir: functional language based on Erlang with Ruby-ish syntax
+- Erlang: functional language invented in the 80s at Ericsson
+- BEAM: The VM that Erlang and Elixir run on
+- OTP: The distribution that includes the BEAM runtime and associated applications and tools
 
 ## Unique Elixir/OTP Features
 - lightweight processes
@@ -32,12 +32,14 @@ date: March 13, 2020
 - supervision trees
 - function heads and guards
 
-## What do you use it for?
+## What do people use it for?
 - [general backend powerhousing](https://blog.discordapp.com/tagged/elixir)
 - web development (Phoenix)
 - embedded development (Nerves)
+- lots of other cool stuff
 
 ## How did I get into it?
+- "Cloud-Native Software Architecture" talk at the May 2019 [SADevs](https://sanantoniodevs.com) meetup
 - 2nd edition of _The Pragmatic Programmer_ by Dave Thomas and Andy Hunt
 - it's a functional language that's not F# or Clojure
 
@@ -60,3 +62,11 @@ date: March 13, 2020
 - Learn something new
 - Do something new with something old
 - Have fun!
+
+## Resources
+- <https://elixir-lang.org>
+- [Conference notes](https://drive.google.com/open?id=1vZ5ZWBZQKYwB4agmFirRljKdUWYDDmrN)
+- [Source for these slides](https://github.com/joshvernon/lonestar-elixir-2020-recap)
+
+##
+<h1>Questions?</h1>
