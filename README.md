@@ -4,7 +4,7 @@
 
 ## Build this Presentation
 
-### Build depenancies
+### Build dependencies
 
 - nvm
 - pandoc
