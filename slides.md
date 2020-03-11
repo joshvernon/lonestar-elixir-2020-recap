@@ -29,8 +29,8 @@ date: March 13, 2020
 ## Unique Elixir/OTP Features
 - lightweight processes
 - communication through message-passing
-- function heads and guards
 - supervision trees
+- function heads and guards
 
 ## What do you use it for?
 - [general backend powerhousing](https://blog.discordapp.com/tagged/elixir)
