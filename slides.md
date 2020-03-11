@@ -8,15 +8,12 @@ date: March 13, 2020
 - February 27-28, 2020
 - Alamo Drafthouse South Lamar, Austin, TX
 
-
 ##  
 ![](images/traffic.png)
-
 
 ## What is [Elixir](https://elixir-lang.org/)?
 > a dynamic, functional language designed for
 > building scalable and maintainable applications
-
 
 ## Terms
 - **Elixir**: functional language with Ruby-ish syntax
@@ -24,24 +21,20 @@ date: March 13, 2020
 - **BEAM**: The VM Erlang and Elixir run on
 - **OTP**: The runtime that includes the BEAM and associated applications and tools
 
-
 ## Unique Elixir/OTP Features
 - lightweight processes
 - communication through message-passing
 - function heads and guards
 - supervision trees
 
-
 ## What do you use it for?
 - [general backend powerhousing](https://blog.discordapp.com/tagged/elixir)
 - web development (Phoenix)
 - embedded development (Nerves)
 
-
 ## How did I get into it?
 - 2nd edition of _The Pragmatic Programmer_ by Dave Thomas and Andy Hunt
 - it's a functional language that's not F# or Clojure
-
 
 ## Top Soft Skills Talks
 - Dave Thomas's keynote
