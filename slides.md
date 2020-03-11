@@ -35,4 +35,24 @@ date: March 13, 2020
 ## What do you use it for?
 - [general backend powerhousing](https://blog.discordapp.com/tagged/elixir)
 - web development (Phoenix)
-- embedded development
+- embedded development (Nerves)
+
+
+## How did I get into it?
+- 2nd edition of _The Pragmatic Programmer_ by Dave Thomas and Andy Hunt
+- it's a functional language that's not F# or Clojure
+
+
+## Top Soft Skills Talks
+- Dave Thomas's keynote
+- Yeah...but should we?
+- Getting the Frog out of the Well
+- What I Learned About Code Review from Teaching 8th Grade Poetry
+
+## Top Tech Talks
+- The Grand Bank of Jon Jon *_Not FDIC Insured_
+- Tests: friend or foe? Chain or Cable?
+- Why Your Next (or First) Hardware Project Should Be Built With Nerves
+- Nobody:  
+  Literally No One:  
+  Me: Let's Write CSS in Elixir!
